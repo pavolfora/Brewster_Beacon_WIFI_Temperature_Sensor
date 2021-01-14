@@ -14,7 +14,7 @@ const double B = 0.000234125;
 const double C = 0.0000000876741;
 
 double temperature;
-const double tempCorrection = 0.0;
+const double tempCorrection = -1.0;
 
 WiFiClient client;
 
